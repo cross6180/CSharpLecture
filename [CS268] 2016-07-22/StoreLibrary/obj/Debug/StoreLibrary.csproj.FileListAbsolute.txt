@@ -1,0 +1,5 @@
+C:\Users\User\Dropbox\C sharp lecture\02\[CS268] 2016-07-22\StoreLibrary\bin\Debug\StoreLibrary.dll
+C:\Users\User\Dropbox\C sharp lecture\02\[CS268] 2016-07-22\StoreLibrary\bin\Debug\StoreLibrary.pdb
+C:\Users\User\Dropbox\C sharp lecture\02\[CS268] 2016-07-22\StoreLibrary\obj\Debug\StoreLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\C sharp lecture\02\[CS268] 2016-07-22\StoreLibrary\obj\Debug\StoreLibrary.dll
+C:\Users\User\Dropbox\C sharp lecture\02\[CS268] 2016-07-22\StoreLibrary\obj\Debug\StoreLibrary.pdb
