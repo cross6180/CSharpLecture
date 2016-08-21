@@ -1,0 +1,41 @@
+D:\Research\[CS268] FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe.config
+D:\Research\[CS268] FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe
+D:\Research\[CS268] FinalProject\BikeOrdering\bin\Debug\BikeOrdering.pdb
+D:\Research\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csprojResolveAssemblyReference.cache
+D:\Research\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.BikeOrderingForm.resources
+D:\Research\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.Properties.Resources.resources
+D:\Research\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csproj.GenerateResource.Cache
+D:\Research\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.exe
+D:\Research\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.pdb
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe.config
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.exe
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.pdb
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\bin\Debug\BikeOrdering.pdb
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.BikeOrderingForm.resources
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.Properties.Resources.resources
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.OrderManagementForm.resources
+C:\Users\User\Dropbox\C sharp lecture\[CS268] FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csproj.ResolveComReference.cache
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe.config
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csproj.ResolveComReference.cache
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.exe
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.pdb
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\bin\Debug\BikeOrdering.pdb
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.BikeOrderingForm.resources
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.OrderManagementForm.resources
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.Properties.Resources.resources
+C:\Users\User\Dropbox\CsharpLecture\[CS268]FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe.config
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csproj.ResolveComReference.cache
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\obj\Debug\BikeOrdering.exe
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\obj\Debug\BikeOrdering.pdb
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\bin\Debug\BikeOrdering.exe
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\bin\Debug\BikeOrdering.pdb
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\obj\Debug\BikeOrdering.BikeOrderingForm.resources
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\obj\Debug\BikeOrdering.Properties.Resources.resources
+C:\Users\User\Dropbox\CsharpLecture\FinalProject\BikeOrdering\obj\Debug\BikeOrdering.csproj.GenerateResource.Cache
